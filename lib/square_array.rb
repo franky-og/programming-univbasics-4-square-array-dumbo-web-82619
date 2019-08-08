@@ -6,4 +6,5 @@ counter = 0
   new_array << array[counter] ** 2
   counter = counter + 1
 end
+return new_array
 end
